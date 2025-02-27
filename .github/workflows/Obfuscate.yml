@@ -6,7 +6,7 @@ on:
       - main
   schedule:
         # Runs everyday at 1:00 AM
-        - cron: "58 16 * * *"
+        - cron: "02 1 * * *"
 
 permissions:
   contents: write
